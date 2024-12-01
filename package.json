@@ -11,9 +11,6 @@
     "prop-types": "^15.5.10",
     "react-native-animatable": "^1.2.4"
   },
-  "peerDependencies": {
-    "react-native": "^0.44.0"
-  },
   "keywords": [
     "radio-button",
     "react",
